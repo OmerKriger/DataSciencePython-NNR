@@ -1,4 +1,4 @@
-# DataSciencePythonAssignment3-NNR
+# DataSciencePython-NNR
 My implementation of the NNR classifier for in course DataScience Assignment
 Information about NNR:
 A nearest neighbors in radius (NNR) classifier is a variation of the KNN classifier,
